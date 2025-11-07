@@ -14,11 +14,13 @@ cymem==2.0.11
 distro==1.9.0
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
 et_xmlfile==2.0.0
+Events==0.5
 fastapi==0.118.0
 filelock==3.19.1
 Flask==3.1.2
 flask-cors==6.0.1
 fsspec==2025.9.0
+git-filter-repo==2.47.0
 googleapis-common-protos==1.70.0
 grpcio==1.75.0
 h11==0.16.0
@@ -44,6 +46,7 @@ nltk==3.9.1
 numpy==2.3.3
 openai==1.108.2
 openpyxl==3.1.5
+opensearch-py==3.0.0
 packaging==24.2
 pandas==2.3.2
 pefile==2023.2.7
