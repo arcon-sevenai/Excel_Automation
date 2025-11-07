@@ -51,8 +51,8 @@ packaging==24.2
 pandas==2.3.2
 pefile==2023.2.7
 pillow==11.3.0
-pinecone==7.3.0
-pinecone-plugin-assistant==1.8.0
+pinecone==5.4.2
+pinecone-plugin-inference==3.1.0
 pinecone-plugin-interface==0.0.7
 preshed==3.0.10
 protobuf==5.29.5
