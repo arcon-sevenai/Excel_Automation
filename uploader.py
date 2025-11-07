@@ -407,9 +407,9 @@ def push_to_pinecone(excel_path):
 # ============================================================
 # STEP 6: MAIN ENTRY POINT
 # ============================================================
-if __name__ == "__main__":
-    excel_path = input(" Enter full path to Excel file to upload: ").strip()
-    if not excel_path or not os.path.exists(excel_path):
-        print(" Invalid path. Exiting.")
-        sys.exit(0)
-    push_to_pinecone(excel_path)
+# if __name__ == "__main__":
+#     excel_path = input(" Enter full path to Excel file to upload: ").strip()
+#     if not excel_path or not os.path.exists(excel_path):
+#         print(" Invalid path. Exiting.")
+#         sys.exit(0)
+#     push_to_pinecone(excel_path)

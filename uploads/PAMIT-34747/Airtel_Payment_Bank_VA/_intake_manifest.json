@@ -1,0 +1,30 @@
+{
+  "ticket_id": "PAMIT-34747",
+  "attachment": "Airtel_Payment_Bank_VA.xlsx",
+  "sheets": [
+    {
+      "sheet_index": 1,
+      "sheet_name": "Sheet1",
+      "decision": "RIGHT",
+      "reason": "header_found",
+      "reason_detail": "Header found.",
+      "images_only": false,
+      "header_row_guess": 1,
+      "export_path": "uploads\\PAMIT-34747\\Airtel_Payment_Bank_VA\\PAMIT-34747__Airtel_Payment_Bank_VA__right_sheet1__Sheet1.xlsx",
+      "export_tag": "PAMIT-34747__Airtel_Payment_Bank_VA__right_sheet1__Sheet1",
+      "attachment_folder": "uploads\\PAMIT-34747\\Airtel_Payment_Bank_VA"
+    },
+    {
+      "sheet_index": 2,
+      "sheet_name": "Sheet2",
+      "decision": "RIGHT",
+      "reason": "header_found",
+      "reason_detail": "Header found.",
+      "images_only": false,
+      "header_row_guess": 2,
+      "export_path": "uploads\\PAMIT-34747\\Airtel_Payment_Bank_VA\\PAMIT-34747__Airtel_Payment_Bank_VA__right_sheet2__Sheet2.xlsx",
+      "export_tag": "PAMIT-34747__Airtel_Payment_Bank_VA__right_sheet2__Sheet2",
+      "attachment_folder": "uploads\\PAMIT-34747\\Airtel_Payment_Bank_VA"
+    }
+  ]
+}

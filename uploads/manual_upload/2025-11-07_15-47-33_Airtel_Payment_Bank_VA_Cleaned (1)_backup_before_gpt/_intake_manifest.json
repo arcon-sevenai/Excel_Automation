@@ -1,0 +1,12 @@
+{
+  "file": "2025-11-07_15-47-33_Airtel_Payment_Bank_VA_Cleaned (1)_backup_before_gpt.xlsx",
+  "sheets": [
+    {
+      "sheet_index": 1,
+      "sheet_name": "Sheet1",
+      "decision": "RIGHT",
+      "reason": "header_found",
+      "export_path": "uploads\\manual_upload\\2025-11-07_15-47-33_Airtel_Payment_Bank_VA_Cleaned (1)_backup_before_gpt\\2025-11-07_15-47-33_Airtel_Payment_Bank_VA_Cleaned (1)_backup_before_gpt__right_sheet1__Sheet1.xlsx"
+    }
+  ]
+}

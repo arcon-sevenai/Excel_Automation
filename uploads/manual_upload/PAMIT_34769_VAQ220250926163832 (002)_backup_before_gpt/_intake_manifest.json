@@ -1,0 +1,12 @@
+{
+  "file": "PAMIT_34769_VAQ220250926163832 (002)_backup_before_gpt.xlsx",
+  "sheets": [
+    {
+      "sheet_index": 1,
+      "sheet_name": "Sheet1",
+      "decision": "RIGHT",
+      "reason": "header_found",
+      "export_path": "uploads\\manual_upload\\PAMIT_34769_VAQ220250926163832 (002)_backup_before_gpt\\PAMIT_34769_VAQ220250926163832 (002)_backup_before_gpt__right_sheet1__Sheet1.xlsx"
+    }
+  ]
+}
