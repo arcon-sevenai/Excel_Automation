@@ -1,5 +1,4 @@
 name: Deploy
-
 on:
   push:
     branches: [main]
@@ -13,7 +12,6 @@ jobs:
       id-token: write
       contents: read
     steps:
-      - uses: actions/checkout@v4
       - name: Fetch and decode OIDC token
         shell: "C:\\PROGRA~1\\Git\\bin\\bash.exe -e {0}"
         run: |
